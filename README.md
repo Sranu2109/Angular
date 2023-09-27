@@ -1,3 +1,13 @@
+# Description
+
+Each and every value in JavaScript has a set of behaviors you can observe from running different operations. That sounds abstract, but as a quick example, consider some operations we might run on a variable named message.
+
+// Accessing the property 'toLowerCase'
+// on 'message' and then calling it
+message.toLowerCase();
+// Calling 'message'
+message();
+
 # MyAngular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.0.
